@@ -1,3 +1,3 @@
 this is log 1
-Changes in done in slave branch 
-Changes done while in slave
+
+Now in slave branch
